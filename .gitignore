@@ -5,6 +5,4 @@ __pycache__/
 .pytest_cache/
 
 cropped_dataset/
-dataset_split/
-model/
 face_detection.py
